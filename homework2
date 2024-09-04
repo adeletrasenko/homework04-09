@@ -1,0 +1,6 @@
+Number_of_homework="12"
+Number_of_time="1.5"
+Name_of_the_course="Python"
+print(1.5/12)
+Time_for_one_task="0,125"
+print(Name_of_the_course,Number_of_homework,Number_of_time,Time_for_one_task)
